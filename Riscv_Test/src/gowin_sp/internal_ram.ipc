@@ -1,0 +1,17 @@
+[General]
+ipc_version=4
+file=internal_ram
+module=internal_ram
+target_device=gw2a18c-011
+type=ram_sp
+version=3.0
+
+[Config]
+BYTE_SIZE=0
+DEPTH=1024
+LANG=0
+MEM_FILE=/home/jason/Desktop/GoWinFPGA_Prj/Riscv_Test/firmware/build/gowin.mi
+READ=0
+RESET_MODE=true
+WIDTH=32
+WRITE=0
