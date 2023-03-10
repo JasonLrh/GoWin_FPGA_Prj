@@ -5,12 +5,14 @@
     <Version>5</Version>
     <Device name="GW2A-18C" pn="GW2A-LV18PG256C8/I7">gw2a18c-011</Device>
     <FileList>
-        <File path="src/Riscv_Test.v" type="file.verilog" enable="1"/>
         <File path="src/gowin_dpb/picoregs_ram.v" type="file.verilog" enable="1"/>
         <File path="src/gowin_sp/internal_ram.v" type="file.verilog" enable="1"/>
         <File path="src/picorv32.v" type="file.verilog" enable="1"/>
+        <File path="src/picorv32_test.v" type="file.verilog" enable="1"/>
         <File path="src/picosoc_mem.v" type="file.verilog" enable="1"/>
         <File path="src/picosoc_regs.v" type="file.verilog" enable="1"/>
-        <File path="src/Riscv_Test.cst" type="file.cst" enable="1"/>
+        <File path="src/qspi_flash_tester.v" type="file.verilog" enable="1"/>
+        <File path="src/qspi_serializer.v" type="file.verilog" enable="1"/>
+        <File path="src/picorv32_test.cst" type="file.cst" enable="1"/>
     </FileList>
 </Project>

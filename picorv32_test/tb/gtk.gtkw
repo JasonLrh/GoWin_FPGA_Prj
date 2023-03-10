@@ -1,0 +1,46 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Thu Mar 09 05:32:05 2023
+[*]
+[dumpfile] "C:\Users\jason\Documents\GoWin_FPGA_Prj\picorv32_test\tb\dump.vcd"
+[dumpfile_mtime] "Thu Mar 09 05:31:15 2023"
+[dumpfile_size] 16914
+[savefile] "C:\Users\jason\Documents\GoWin_FPGA_Prj\picorv32_test\tb\gtk.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] 430 -196
+*-10.000000 1679 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb.
+[treeopen] tb.qtester.
+[sst_width] 197
+[signals_width] 220
+[sst_expanded] 1
+[sst_vpaned_height] 153
+@28
+tb.clk
+@22
+tb.keys[4:0]
+@28
+[color] 2
+tb.qtester.qspis.csn
+[color] 2
+tb.qtester.qspis.sclk
+@c00022
+[color] 2
+tb.qtester.qspis.q_o[3:0]
+@28
+(0)tb.qtester.qspis.q_o[3:0]
+(1)tb.qtester.qspis.q_o[3:0]
+(2)tb.qtester.qspis.q_o[3:0]
+(3)tb.qtester.qspis.q_o[3:0]
+@1401200
+-group_end
+@28
+tb.qtester.qspis.dataready
+@24
+tb.qtester.qspis.bit_len[5:0]
+tb.qtester.qspis.curr_state[2:0]
+@25
+tb.qtester.curr_state[2:0]
+[pattern_trace] 1
+[pattern_trace] 0
